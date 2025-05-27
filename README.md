@@ -53,11 +53,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hgl-pong&theme=tokyo-night">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hgl-pong&theme=github">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hgl-pong&theme=tokyo-night" alt="Contribution Graph" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hgl-pong&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 ## 📫 Contact Me
