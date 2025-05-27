@@ -13,7 +13,7 @@
 
 ### Development Tools & Platforms
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white)
-![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake&logoColor=whit
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 ## 📊 GitHub Statistics
