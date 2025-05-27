@@ -19,41 +19,45 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <!-- 日间主题 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hgl-pong&show_icons=true&theme=default&include_all_commits=true&count_private=true#gh-light-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgl-pong&layout=compact&langs_count=8&theme=default#gh-light-mode-only"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hgl-pong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hgl-pong&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hgl-pong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </picture>
   
-  <!-- 夜间主题 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hgl-pong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgl-pong&layout=compact&langs_count=8&theme=tokyonight#gh-dark-mode-only"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hgl-pong&layout=compact&langs_count=8&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hgl-pong&layout=compact&langs_count=8&theme=default">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgl-pong&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  <!-- 日间主题 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hgl-pong&theme=default#gh-light-mode-only" alt="GitHub Streak" />
-  
-  <!-- 夜间主题 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hgl-pong&theme=tokyonight#gh-dark-mode-only" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hgl-pong&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hgl-pong&theme=default">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hgl-pong&theme=tokyonight" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <!-- 日间主题 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hgl-pong&theme=flat&column=7#gh-light-mode-only" alt="GitHub Trophies" />
-  
-  <!-- 夜间主题 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hgl-pong&theme=onedark&column=7#gh-dark-mode-only" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hgl-pong&theme=onedark&column=7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=hgl-pong&theme=flat&column=7">
+    <img src="https://github-profile-trophy.vercel.app/?username=hgl-pong&theme=onedark&column=7" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <!-- 日间主题 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hgl-pong&theme=github-compact#gh-light-mode-only" alt="Contribution Graph" />
-  
-  <!-- 夜间主题 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hgl-pong&theme=tokyo-night#gh-dark-mode-only" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hgl-pong&theme=tokyo-night">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hgl-pong&theme=github">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hgl-pong&theme=tokyo-night" alt="Contribution Graph" />
+  </picture>
 </div>
 
 ## 📫 Contact Me
