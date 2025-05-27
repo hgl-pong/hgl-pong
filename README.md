@@ -1,18 +1,49 @@
-## Hi there 👋
+## 🛠️ Tech Stack
 
-<!--
-**hgl-pong/hgl-pong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
-Here are some ideas to get you started:
+### Graphics Programming & Rendering
+![DirectX](https://img.shields.io/badge/-DirectX-0078D4?style=flat-square&logo=Microsoft&logoColor=white)
+![HLSL](https://img.shields.io/badge/-HLSL-5C2D91?style=flat-square&logo=Microsoft&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Physics Engine
+![Jolt Physics](https://img.shields.io/badge/-Jolt%20Physics-FF6B35?style=flat-square&logo=Jolt&logoColor=white)
+![PhysX](https://img.shields.io/badge/-PhysX-4285F4?style=flat-square&logo=PhysX&logoColor=white)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgl-pong&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+### Development Tools & Platforms
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake&logoColor=whit
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hgl-pong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgl-pong&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hgl-pong&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hgl-pong&theme=onedark&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hgl-pong&theme=tokyo-night" alt="Contribution Graph" />
+</div>
+
+## 📫 Contact Me
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hgl-pong)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:2319100642@qq.com)
+
+</div>
